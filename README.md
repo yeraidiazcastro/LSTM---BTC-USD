@@ -1,1 +1,1 @@
-# LSTM---BTC-USD
+# LSTM-BTC/USD
